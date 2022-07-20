@@ -1,0 +1,9 @@
+@import '../../assets/styles/_mixins.scss';
+
+.product-banner {
+  min-height: 30vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  object-fit: contain;
+}
